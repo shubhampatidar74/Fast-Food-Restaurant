@@ -2,6 +2,9 @@ import React from 'react'
 import backgroundImage from "../../../src/assets/asset 0.jpeg"
 import asset01 from "../../../src/assets/asset 1.jpeg"
 import { Link } from 'react-router-dom'
+import Menu from '../Menu/Menu'
+import About from '../About/About'
+import BookTable from '../BookTable/BookTable'
 function Home() {
     return (
         <>
@@ -38,8 +41,10 @@ function Home() {
                     bg-yellow-500'>Order Online</Link>
                     </div>
                 </div>
-                
             </div>
+            <Menu/>
+            <About />
+            <BookTable />   
         </>
     )
 }
