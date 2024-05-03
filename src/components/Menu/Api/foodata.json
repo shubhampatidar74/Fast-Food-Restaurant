@@ -1,0 +1,66 @@
+[
+    {
+        "img":"asset 3.png",
+        "categories":"Pizza",
+        "title":"Delicious Pizza",
+        "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
+        "price":"20"
+    },
+    {
+        "img":"asset 4.png",
+        "categories":"Burger",
+        "title":"Delicious Burger",
+        "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
+        "price":"15"
+    },
+    {
+        "img":"asset 5.png",
+        "categories":"Pizza",
+        "title":"Delicious Pizza",
+        "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
+        "price":"17"
+    },
+    {
+        "img":"asset 6.png",
+        "categories":"Pasta",
+        "title":"Delicious Pasta",
+        "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
+        "price":"18"
+    },
+    {
+        "img":"asset 7.png",
+        "categories":"Fries",
+        "title":"French Fries",
+        "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
+        "price":"10"
+    },
+    {
+        "img":"asset 8.png",
+        "categories":"Pizza",
+        "title":"Delicious Pizza",
+        "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
+        "price":"15"
+    },
+    {
+        "img":"asset 9.png",
+        "categories":"Burger",
+        "title":"Tasty Burger",
+        "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
+        "price":"12"
+    },
+    {
+        "img":"asset 10.png",
+        "categories":"Burger",
+        "title":"Tasty Burger",
+        "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
+        "price":"14"
+    },
+    {
+        "img":"asset 11.png",
+        "categories":"Pasta",
+        "title":"Delicious Pasta",
+        "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
+        "price":"10"
+    }
+    
+]

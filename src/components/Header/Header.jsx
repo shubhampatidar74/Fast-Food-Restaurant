@@ -6,7 +6,7 @@ import { FaCartShopping } from "react-icons/fa6";
 function Header() {
     return (
         <>
-            <nav className=" fixed z-10 w-full h-16 flex justify-around items-center bg-gray-800">
+            <nav className="  w-full h-16 flex justify-around items-center bg-gray-800">
                 <Link 
                     className='text-4xl font-DancingScript text-white'
                     to="/">
@@ -47,10 +47,13 @@ function Header() {
                     </li> 
                 </ul>
 
-                <div className='h-16 flex justify-center items-center gap-4'>
+                <div className='h-16 flex justify-center items-center gap-8'>
                     <IoIosContact size="30px" color='white' />
                     <FaSearch size="20px" color='white' />
-                    <FaCartShopping size="20px" color='white' />
+                    <div>
+                    <FaCartShopping className='cursor-pointer' size="20px" color='white' />
+                        <span  className='bg-red-700 font-bold text-white rounded-full absolute top-2 ml-3 text-lg px-2 text-center'>1</span>
+                    </div>
                     <Link className='text-xl px-4 w-40 py-1.5 h-11 rounded-full text-center
                     bg-yellow-500'>Order Online</Link>
                 </div>
