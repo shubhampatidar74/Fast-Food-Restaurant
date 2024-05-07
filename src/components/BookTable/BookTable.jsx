@@ -11,21 +11,21 @@ function BookTable() {
             action=""
           >
             <input
-              className="h-11 rounded-lg outline-none w-2/3 border-2 border-gray-950 mt-4"
+              className="px-3 h-11 rounded-lg outline-none w-2/3 border-2 border-gray-950 mt-4"
               type="text"
               name=""
               id=""
             />
             <br />
             <input
-              className="h-11 rounded-lg outline-none w-2/3 border-2 border-gray-950 mt-4"
+              className="px-3 h-11 rounded-lg outline-none w-2/3 border-2 border-gray-950 mt-4"
               type="text"
               name=""
               id=""
             />
             <br />
             <input
-              className="h-11 rounded-lg outline-none w-2/3 border-2 border-gray-950 mt-4"
+              className="px-3 h-11 rounded-lg outline-none w-2/3 border-2 border-gray-950 mt-4"
               type="text"
               name=""
               id=""
@@ -36,15 +36,15 @@ function BookTable() {
               name=""
               id=""
             >
-              <option value=""></option>
-              <option value=""></option>
-              <option value=""></option>
-              <option value=""></option>
-              <option value=""></option>
+              <option className=" font-semibold" disabled>How Many Person ?</option>
+              <option className="" value="2">2</option>
+              <option className="" value="3">3</option>
+              <option className="" value="4">4</option>
+              <option className="" value="5">5</option>
             </select>
             <br />
             <input
-              className="h-11 rounded-lg outline-none w-2/3 border-2 border-gray-950 mt-4"
+              className="px-3 h-11 rounded-lg outline-none w-2/3 border-2 border-gray-950 mt-4"
               type="date"
               name=""
               id=""

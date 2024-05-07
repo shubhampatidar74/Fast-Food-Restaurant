@@ -1,66 +1,74 @@
 [
-    {
+    {   
+        "id":"1",    
         "img":"asset 3.png",
         "categories":"Pizza",
         "title":"Delicious Pizza",
-        "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
-        "price":"20"
+        "description":"Enjoy our mouth-watering pizza topped with fresh ingredients and baked to perfection.",
+        "price":20
     },
     {
+        "id":"2",
         "img":"asset 4.png",
         "categories":"Burger",
-        "title":"Delicious Burger",
-        "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
-        "price":"15"
+        "title":"Juicy Burger",
+        "description":"Savor our juicy burger made with premium beef and served with your favorite toppings.",
+        "price":15
     },
     {
+        "id":"3",
         "img":"asset 5.png",
         "categories":"Pizza",
-        "title":"Delicious Pizza",
-        "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
-        "price":"17"
+        "title":"Supreme Pizza",
+        "description":"Indulge in our supreme pizza loaded with a variety of toppings and melted cheese.",
+        "price":17
     },
     {
+        "id":"4",
         "img":"asset 6.png",
         "categories":"Pasta",
-        "title":"Delicious Pasta",
-        "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
-        "price":"18"
+        "title":"Creamy Pasta",
+        "description":"Treat yourself to our creamy pasta dish, made with fresh ingredients and tossed in a rich sauce.",
+        "price":18
     },
     {
+        "id":"5",
         "img":"asset 7.png",
         "categories":"Fries",
-        "title":"French Fries",
-        "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
-        "price":"10"
+        "title":"Golden Fries",
+        "description":"Crunch into our golden fries, perfectly seasoned and served hot.",
+        "price":10
     },
     {
+        "id":"6",
         "img":"asset 8.png",
         "categories":"Pizza",
-        "title":"Delicious Pizza",
-        "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
-        "price":"15"
+        "title":"Margherita Pizza",
+        "description":"Satisfy your cravings with our classic Margherita pizza, topped with fresh mozzarella and basil leaves.",
+        "price":15
     },
     {
+        "id":"7",
         "img":"asset 9.png",
         "categories":"Burger",
-        "title":"Tasty Burger",
-        "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
-        "price":"12"
+        "title":"Deluxe Burger",
+        "description":"Experience our deluxe burger, crafted with premium ingredients and bursting with flavor.",
+        "price":12
     },
     {
+        "id":"8",
         "img":"asset 10.png",
         "categories":"Burger",
-        "title":"Tasty Burger",
-        "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
-        "price":"14"
+        "title":"Veggie Burger",
+        "description":"Try our veggie burger, packed with nutritious vegetables and served with your choice of sauce.",
+        "price":14
     },
     {
+        "id":"9",
         "img":"asset 11.png",
         "categories":"Pasta",
-        "title":"Delicious Pasta",
-        "description":"Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque",
-        "price":"10"
+        "title":"Spicy Pasta",
+        "description":"Spice up your day with our spicy pasta dish, featuring bold flavors and hearty ingredients.",
+        "price":10
     }
-    
 ]
